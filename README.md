@@ -272,15 +272,61 @@ router.post("/", verify, async (req, res) => {
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Preview
 
-| Register | Login | Home | Watch |
-|:---------:|:------:|:-----:|:------:|
-| ![Register](img/1.png) | ![Login](img/2.png) | ![Home](img/3.png) | ![Watch](img/4.png) |
+### 📝 Register Page
+![Register Page](img/1.jpg)
 
-| Responsive | Dashboard | Movie List | Add Movie |
-|:-----------:|:-----------:|:------------:|:------------:|
-| ![Responsive](img/5.png) | ![Dashboard](img/6.png) | ![All Movies](img/7.png) | ![Add Movie](img/8.png) |
+---
+
+### 🔐 Login Page
+![Login Page](img/2.jpg)
+
+---
+
+### 🏠 Home Page
+![Home Page](img/3.jpg)
+
+---
+
+### 🧾 Movie Preview 
+![Description](img/8.jpg)
+![Description](img/9.jpg)
+
+---
+
+### 🎥 Watch Page
+![Watch Page](img/4.jpg)
+
+---
+
+### 📱 Responsive UI (Mobile, Tablet)
+<p align="center">
+  <img src="img/5.jpg" width="30%" alt="Responsive 1" />
+  <img src="img/6.jpg" width="30%" alt="Responsive 2" />
+  <img src="img/7.jpg" width="30%" alt="Responsive 3" />
+</p>
+
+---
+
+### 🧑‍💻 Admin Dashboard
+![Admin Dashboard](img/10.png)
+
+---
+
+### 🎬 All Movies List
+![All Movies List](img/11.png)
+
+---
+
+### ➕ Add New Movie
+![Add New Movie](img/13.png)
+
+---
+
+### ✏️ Update Existing Movie
+![Update Movie](img/12.jpg)
+
 
 ---
 
