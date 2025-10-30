@@ -9,9 +9,6 @@
 > 🎥 A modern OTT web platform developed using the **MERN stack**, featuring a rich client interface for users and a powerful admin dashboard for content management.
 
 ---
-
-## 🧾 Overview
-
 ## 🧾 Overview
 
 **Cinexa** is a modern, full-featured **OTT (Over-the-Top)** streaming platform inspired by popular services like **Netflix** and **Amazon Prime Video**.  
