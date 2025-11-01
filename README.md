@@ -1,12 +1,27 @@
-# 🎬 Cinexa – A Modern OTT Platform (MERN)
+<h1 align="center">
+ 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="60" height="60" alt="React.js Logo">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="60" height="60" alt="Node.js Logo">
+  <br>
+  🎬 <span style="color:#ff4b2b">Cinexa – A Modern OTT Platform</span> 🎬  
+</h1>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+<h3 align="center">🍿 An Advanced MERN-based Web Streaming Experience</h3>
 
-> 🎥 A modern OTT web platform developed using the **MERN stack**, featuring a rich client interface for users and a powerful admin dashboard for content management.
+<p align="center">
+  <em>Designed and Developed as a Full-Stack OTT Solution</em>  
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Platform-Web-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge">
+</p>
+
+> 🎥 A modern OTT web platform built using the **MERN stack**, featuring a sleek user interface for movie streaming and a robust admin dashboard for content management.
 
 ---
 ## 🧾 Overview
